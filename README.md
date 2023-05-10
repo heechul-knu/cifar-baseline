@@ -1,11 +1,11 @@
 # cifar10-baseline
 
-train
+- train
 ```
 python main.py
 ```
 
-inference
+- inference
 ```
 python ensemble.py
 ```
